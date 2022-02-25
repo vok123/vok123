@@ -1,5 +1,5 @@
 <p>
-  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=vue&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/-Vue-45b8d8?style=flat-square&logo=Vue&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -35,12 +35,19 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/vok123/vue3-ts-vite-ssr-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vok123/vue3-ts-vite-ssr-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/vok123/typescript-vue-eslint-starter"><b>Vue2 Webpack Ts SSR</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/vok123/typescript-vue-eslint-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/vok123/typescript-vue-eslint-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/vok123/typescript-vue-eslint-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vok123/typescript-vue-eslint-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vok123/vue3-vite-ts-template"><b>Vue3 SPA Ts Template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/vok123/vue3-vite-ts-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/vok123/vue3-vite-ts-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/vok123/vue3-vite-ts-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/vok123/vue3-vite-ts-template?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
